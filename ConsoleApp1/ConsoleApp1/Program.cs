@@ -11,7 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Guten Tag");
-            Console.WriteLine("Ah, hallo mein Freund!");
+            Console.WriteLine("Ah, hallo mein Freund, Polina!");
+            Console.WriteLine("Ah, hallo mein Freund, Ladusja!");
             Console.ReadKey();
         }
     }

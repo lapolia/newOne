@@ -5,3 +5,10 @@ C:\Users\Admin\GutenTag\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojReso
 C:\Users\Admin\GutenTag\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Admin\GutenTag\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Admin\GutenTag\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\ri78lp\GutenTag\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ri78lp\GutenTag\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ri78lp\GutenTag\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ri78lp\GutenTag\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\ri78lp\GutenTag\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ri78lp\GutenTag\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ri78lp\GutenTag\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
